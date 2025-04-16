@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
+Template Name: Restaurantly
+Template URL: https://bootstrapmade.com/restaurantly-restaurant-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
